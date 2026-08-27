@@ -4,3 +4,8 @@ Analyzed 600 restaurant health inspections in Power BI to evaluate inspection pe
 ## Dashboard
 
 ![Restaurant Health Inspection Dashboard](restaurant-health-inspection-dashboard.png)
+
+
+## Project Overview
+
+This project analyzes restaurant health inspection data to better understand inspection performance, identify patterns in violations, and highlight areas of potential risk. I completed the project independently from data preparation through analysis and dashboard development, with the goal of turning raw inspection data into clear and useful insights.
