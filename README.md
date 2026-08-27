@@ -9,3 +9,10 @@ Analyzed 600 restaurant health inspections in Power BI to evaluate inspection pe
 ## Project Overview
 
 This project analyzes restaurant health inspection data to better understand inspection performance, identify patterns in violations, and highlight areas of potential risk. I completed the project independently from data preparation through analysis and dashboard development, with the goal of turning raw inspection data into clear and useful insights.
+
+
+## Tools Used
+
+- **Power BI** – Dashboard development and data visualization
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Calculated measures and KPIs
