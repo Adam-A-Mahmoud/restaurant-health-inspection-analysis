@@ -16,3 +16,7 @@ This project analyzes restaurant health inspection data to better understand ins
 - **Power BI** – Dashboard development and data visualization
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Calculated measures and KPIs
+
+## Data Preparation
+
+The dataset was cleaned and prepared in Power Query before analysis. This included reviewing data types, handling missing or inconsistent values, and preparing the inspection data for use in the dashboard. I also created calculated measures in DAX to track metrics such as total inspections, average inspection score, pass rate, follow-up rate, and restaurant risk levels.
